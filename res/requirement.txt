@@ -1,0 +1,11 @@
+click
+robotframework
+robotframework-seleniumlibrary
+requests
+python-dotenv
+pandas
+jsonref
+jsonschema
+Appium-Python-Client
+robotframework-appiumlibrary
+python-owasp-zap-v2.4
